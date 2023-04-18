@@ -1,2 +1,2 @@
 #!/bin/bash
-0x03-shell_varible_expansions
+0x03 shell variable expansions
